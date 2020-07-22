@@ -1,4 +1,5 @@
 .idea/
 tests.py
 venv/
+login_password.txt
 
